@@ -6,7 +6,7 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 
 **Get The Challenge here**
 
-![Uploading three-tier.png…]()
+
 
 
 ## Prerequisites
