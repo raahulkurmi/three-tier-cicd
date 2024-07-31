@@ -1,12 +1,7 @@
-# #TWSThreeTierAppChallenge
 
 ## Overview
-This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
+This repository hosts the `ThreeTierApp` . 
 The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. Participants are encouraged to deploy the application, add creative enhancements, and submit a Pull Request (PR). Merged PRs will earn exciting prizes!
-
-**Get The Challenge here**
-
-
 
 
 ## Prerequisites
